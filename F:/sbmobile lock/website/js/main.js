@@ -1,4 +1,4 @@
-/* ===========================================
+﻿/* ===========================================
    SB MOBILE LOCK — MAIN JAVASCRIPT
    =========================================== */
 
@@ -137,10 +137,10 @@ createParticles();
 
 // ── HERO SCREEN CAROUSEL ───────────────────
 const heroScreens = [
-  '../app screen/login page.jpg',
-  '../app screen/Screenshot_20260916_135655_SB Lock Retailer.jpg',
-  '../app screen/Screenshot_20260916_135721_SB Lock Retailer.jpg',
-  '../app screen/Screenshot_20260916_135729_SB Lock Retailer.jpg',
+  'assets/login page.jpg',
+  'assets/Screenshot_20260916_135655_SB Lock Retailer.jpg',
+  'assets/Screenshot_20260916_135721_SB Lock Retailer.jpg',
+  'assets/Screenshot_20260916_135729_SB Lock Retailer.jpg',
 ];
 
 let heroScreenIndex = 0;
@@ -160,13 +160,13 @@ if (heroScreenImg) {
 
 // ── SCREENSHOT LIGHTBOX ────────────────────
 const screenshots = [
-  { src: '../app screen/login page.jpg', label: 'Login Page' },
-  { src: '../app screen/Screenshot_20260916_135655_SB Lock Retailer.jpg', label: 'Dashboard' },
-  { src: '../app screen/Screenshot_20260916_135721_SB Lock Retailer.jpg', label: 'Device Management' },
-  { src: '../app screen/Screenshot_20260916_135729_SB Lock Retailer.jpg', label: 'EMI Tracking' },
-  { src: '../app screen/Screenshot_20260916_135739_SB Lock Retailer.jpg', label: 'Remote Control' },
-  { src: '../app screen/Screenshot_20260916_135745_SB Lock Retailer.jpg', label: 'Alerts Panel' },
-  { src: '../app screen/Screenshot_20260916_135806_SB Lock Retailer.jpg', label: 'Device Details' },
+  { src: 'assets/login page.jpg', label: 'Login Page' },
+  { src: 'assets/Screenshot_20260916_135655_SB Lock Retailer.jpg', label: 'Dashboard' },
+  { src: 'assets/Screenshot_20260916_135721_SB Lock Retailer.jpg', label: 'Device Management' },
+  { src: 'assets/Screenshot_20260916_135729_SB Lock Retailer.jpg', label: 'EMI Tracking' },
+  { src: 'assets/Screenshot_20260916_135739_SB Lock Retailer.jpg', label: 'Remote Control' },
+  { src: 'assets/Screenshot_20260916_135745_SB Lock Retailer.jpg', label: 'Alerts Panel' },
+  { src: 'assets/Screenshot_20260916_135806_SB Lock Retailer.jpg', label: 'Device Details' },
 ];
 
 let currentLightboxIndex = 0;
