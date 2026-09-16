@@ -14,21 +14,21 @@
 
   <!-- Legal Pages -->
   <url>
-    <loc>https://sbmobilelock.in/privacy-policy.html</loc>
+    <loc>https://sbmobilelock.in/privacy.html</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://sbmobilelock.in/terms-of-service.html</loc>
+    <loc>https://sbmobilelock.in/terms.html</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://sbmobilelock.in/refund-policy.html</loc>
+    <loc>https://sbmobilelock.in/refund.html</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
